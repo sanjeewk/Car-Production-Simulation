@@ -1,5 +1,5 @@
 # Car-Production-Simulation
-A multithread program in C that simulates a car production line with limited storage space and worksd and all parts being made when needed. It solves the producer consume problem.
+A multithread program in C that simulates a car production line with limited storage space and workers and all parts being made when needed. It solves the producer consume problem.
 
 In the producer-consumer problem, there is a Producer that creates a resource and a COnsumer that consumes the resource. The producers and consumers share the same memory buffer that is of fixed-size.
 
